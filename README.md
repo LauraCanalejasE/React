@@ -1,4 +1,4 @@
-# React
+React
 Como descargar correctamente esta app web.
 Primero clona este repositorio de git con el comando git clone https://github.com/LauraCanalejasE/React-Cypress.git
 después necesitarás abrir una terminal con la ruta donde tienes el proyecto, y lanzar un npm i o npm install.
